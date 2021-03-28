@@ -1,4 +1,4 @@
-## Hi there 🤖
+## Hi there 🌱
 
 My name is Mauricio Vieira. I love geek culture, movies and coffee! I've been working as Front-end Developer since 2017 and currently I'm  at [MadeiraMadeira](https://www.madeiramadeira.com.br/). 
 I see the world of development as something very unique and full of opportunities. Like a large galaxy to be explored.
